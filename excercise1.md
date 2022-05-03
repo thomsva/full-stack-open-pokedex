@@ -6,6 +6,6 @@ For a linting solution there is a commonly used tool called [Checkstyle](https:/
 
 Examples of Java build tools are Gradle, Ant and Maven. A build tool is used to compile the source code into an executable and conveniently the build tools are commonly used to run unit tests and integration tests as a stage in the build process. 
 
-For CI, alternatives to Jenkins or GitHub Actions could be Travis, CircleCI or the GitLab CI/CD tool. 
+For CI, some alternatives to Jenkins or GitHub Actions could be Travis, CircleCI or the GitLab CI/CD tool. 
 
 The question weather to deploy the application in a cloud based solution or going with a self hosted alternative, it comes down to several different factors. If the users of the application are spread out all over the world, they would have a better quality of service if the applications was hosted by a provider, who has servers in all parts of the world. If the owner of the application is large multinational company, they might have sufficient infrastucture themselves. In this case choosing between the alternatives would be a matter of cost or stategic choice. Most of the times economies of scale should make using a cloud based service very efficient. But economical efficiency is not always the main concideration. Many times companies value their data very highly and it may be seen as a smaller risk to keep everything in their own hands even at a higher cost for similar performance and reliablility. 
