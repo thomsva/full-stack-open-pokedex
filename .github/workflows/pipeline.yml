@@ -34,3 +34,5 @@ jobs:
           heroku_app_name: "pokedex911" 
           heroku_email: ${{secrets.HEROKU_EMAIL}}
           healthcheck: "https://pokedex911.herokuapp.com/health"
+          checkstring: "ok"
+          rollbackonhealthcheckfailed: true
