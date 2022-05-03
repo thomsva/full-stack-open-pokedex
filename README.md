@@ -1,4 +1,5 @@
 # Full Stack open CI/CD
+[![Deployment pipeline](https://github.com/thomsva/full-stack-open-pokedex/actions/workflows/pipeline.yml/badge.svg)](https://github.com/thomsva/full-stack-open-pokedex/actions/workflows/pipeline.yml)
 
 This repository is used for the CI/CD module of the Full stack open course
 
