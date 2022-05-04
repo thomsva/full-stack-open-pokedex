@@ -18,6 +18,6 @@ Start by running `npm install` inside the project folder
 `npm run start-prod` to run your production build
 
 
-## Excercises 11.20 and 11.21
+## Exercises 11.20 and 11.21
 
-Excercises **11.20 Your own pipeline** and **11.21 Protect your main branch and ask for pull request** have been completed in [this GitHub repository](https://github.com/thomsva/PhoneBook)
+Exercises **11.20 Your own pipeline** and **11.21 Protect your main branch and ask for pull request** have been completed in [this GitHub repository](https://github.com/thomsva/PhoneBook)
